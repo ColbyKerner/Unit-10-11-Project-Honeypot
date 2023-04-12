@@ -1,7 +1,7 @@
 # Unit-10-11-Project-Honeypot
 # Honeypot Assignment
 
-**Time spent:** 5 hours spent in total
+**Time spent:** 7 hours spent in total
 
 **Objective:** Create a honeynet using MHN-Admin. Present your findings as if you were requested to give a brief report of the current state of Internet security. Assume that your audience is a current employer who is questioning why the company should allocate anymore resources to the IT security team.
 
@@ -10,14 +10,15 @@
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
 I used GCP in order to deploy since this was what was what code path suggested. This process was pretty straightforward since the directions were created as if the student was using GCP. This resulted in the creation of both virtual machines listed in the directions. 
 
-<img src="mhn-admin.gif">
+![Screenshot VM instances](https://user-images.githubusercontent.com/122297650/231556984-3557757f-ed1f-4e2d-8255-73f2afa5147d.png)
+
 
 ### Dionaea Honeypot Deployment (Required)
 
 **Summary:** Briefly in your own words, what does dionaea do?
 Dionaea is a type of honeypot that is considered to be low level. Its use is to be able to capture malware and different types of attack payloads.
 
-<img src="dionaea-honeypot.gif">
+![Screenshot of attack report](https://user-images.githubusercontent.com/122297650/231556630-a804e1a7-ab1c-4d2f-bcbf-8b1a33ffcc2b.png)
 
 ### Database Backup (Required) 
 
